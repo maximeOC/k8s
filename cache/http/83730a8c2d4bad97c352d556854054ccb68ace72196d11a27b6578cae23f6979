@@ -1,0 +1,12 @@
+­»Tð$²L´•+4!ùÀ=ºh³VÌh¤ºWÙ~¼HTTP/2.0 200 OK
+Content-Length: 292
+Audit-Id: c835edf3-d717-4e92-ba7a-e47964adbe55
+Audit-Id: c835edf3-d717-4e92-ba7a-e47964adbe55
+Cache-Control: no-cache, private
+Cache-Control: no-cache, private
+Content-Type: application/json
+Date: Mon, 21 Aug 2023 13:21:19 GMT
+X-Kubernetes-Pf-Flowschema-Uid: 4778103e-b7a0-41cd-a1b3-5851dab0507d
+X-Kubernetes-Pf-Prioritylevel-Uid: cbdb1a19-b9d3-4733-9cf3-25743970a782
+
+{"kind":"APIResourceList","apiVersion":"v1","groupVersion":"metrics.k8s.io/v1beta1","resources":[{"name":"nodes","singularName":"","namespaced":false,"kind":"NodeMetrics","verbs":["get","list"]},{"name":"pods","singularName":"","namespaced":true,"kind":"PodMetrics","verbs":["get","list"]}]}

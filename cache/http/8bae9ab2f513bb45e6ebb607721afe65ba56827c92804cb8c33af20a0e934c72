@@ -1,0 +1,10 @@
+ìè6â{§ïÁÊö•QIkö‘B±ýžtƒøekÆêHTTP/2.0 200 OK
+Content-Length: 1162
+Audit-Id: e8deb28a-0ff4-4652-a5f0-94e51fd89703
+Cache-Control: no-cache, private
+Content-Type: application/json
+Date: Mon, 21 Aug 2023 13:21:19 GMT
+X-Kubernetes-Pf-Flowschema-Uid: 4778103e-b7a0-41cd-a1b3-5851dab0507d
+X-Kubernetes-Pf-Prioritylevel-Uid: cbdb1a19-b9d3-4733-9cf3-25743970a782
+
+{"kind":"APIResourceList","apiVersion":"v1","groupVersion":"snapshot.storage.k8s.io/v1","resources":[{"name":"volumesnapshots","singularName":"volumesnapshot","namespaced":true,"kind":"VolumeSnapshot","verbs":["delete","deletecollection","get","list","patch","create","update","watch"],"shortNames":["vs"],"storageVersionHash":"CBkCoNN1OpA="},{"name":"volumesnapshots/status","singularName":"","namespaced":true,"kind":"VolumeSnapshot","verbs":["get","patch","update"]},{"name":"volumesnapshotclasses","singularName":"volumesnapshotclass","namespaced":false,"kind":"VolumeSnapshotClass","verbs":["delete","deletecollection","get","list","patch","create","update","watch"],"shortNames":["vsclass","vsclasses"],"storageVersionHash":"agjrTDFWe0I="},{"name":"volumesnapshotcontents","singularName":"volumesnapshotcontent","namespaced":false,"kind":"VolumeSnapshotContent","verbs":["delete","deletecollection","get","list","patch","create","update","watch"],"shortNames":["vsc","vscs"],"storageVersionHash":"ksBm2JR3lFg="},{"name":"volumesnapshotcontents/status","singularName":"","namespaced":false,"kind":"VolumeSnapshotContent","verbs":["get","patch","update"]}]}
